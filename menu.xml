@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Menu>
+	<Dish> 
+		<name>Рулет с изюмом</name> 
+		<weght>75</weght>
+		<cost>15</cost>
+	</Dish> 
+	<Dish> 
+		<name>Пирог с повидлом</name> 
+		<weght>60</weght>
+		<cost>13</cost>
+	</Dish> 
+	<Dish> 
+		<name>Салат Изюминка</name> 
+		<weght>100</weght>
+		<cost>35</cost>
+	</Dish> 
+	<Dish> 
+		<name>Салат Лукошко</name> 
+		<weght>100</weght>
+		<cost>40</cost>
+	</Dish> 
+	<Dish> 
+		<name>Салат Капустный с помидором</name> 
+		<weght>100</weght>
+		<cost>19</cost>
+	</Dish> 
+	<Dish> 
+		<name>Суп харчо с говядиной</name> 
+		<weght>250</weght>
+		<cost>31</cost>
+	</Dish> 
+	<Dish> 
+		<name>Суп куриный с грибами</name> 
+		<weght>250</weght>
+		<cost>34</cost>
+	</Dish> 
+	<Dish> 
+		<name>Суп болгарский вегетарианский</name> 
+		<weght>250</weght>
+		<cost>21</cost>
+	</Dish> 
+	<Dish> 
+		<name>Рыбное филе с помидоркой</name> 
+		<weght>80</weght>
+		<cost>54</cost>
+	</Dish> 
+	<Dish> 
+		<name>Печень по королевски</name> 
+		<weght>150</weght>
+		<cost>54</cost>
+	</Dish> 
+	<Dish> 
+		<name>Свинина запеченная "По-гусарски"</name> 
+		<weght>80</weght>
+		<cost>68</cost>
+	</Dish> 
+	<Dish> 
+		<name>Греча с маслом</name> 
+		<weght>170</weght>
+		<cost>17</cost>
+	</Dish> 
+	<Dish> 
+		<name>Макароны отварные</name> 
+		<weght>170</weght>
+		<cost>15</cost>
+	</Dish> 
+	<Dish> 
+		<name>Рис отварной с маслом</name> 
+		<weght>170</weght>
+		<cost>16</cost>
+	</Dish> 
+</Menu>
